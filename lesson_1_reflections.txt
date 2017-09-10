@@ -1,0 +1,30 @@
+1- Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+		A ferramenta diff compara dois arquivos e verifica se possui diferenças entre os arquivos. Bem se occorer um bug em meu codigo
+		e eu possuir uma versao anterior desse codigo eu posso verificar o diff para ver qual a diferença entre as duas versões e isso
+		vai me ajudar a determinar onde está o bug e corrigi-lo.
+
+2- Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+		Quando eu tenho acesso ao historico de versão de um projeto ou código é facil resolver problemas futuros, porque eu posso voltar
+		e verificar minhas versões anteriores para ver o que causou o problema. e também eu vou ter um controle maior do meu projeto pois
+		eu vou ter data de lançamento e versões, quais alterações foram feitas quem alterou. isso tudo ajuda no desenvolvimento de um pro-
+		jeto e na manutenção do mesmo.
+
+3- Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+		Quando eu escolho manualmente quando fazer um commite eu tenho a vantagem de ter o controle de versão do meu projeto, faço commits 
+		apenas quando eu julgar necessario assim não fico com commits denecessarios. Mas se eu possuir um controle de versão automático eu
+		não vou ter o erro humano me atrapalhando já que como não é eu que escolho o commit ele vai salvar automaticamente eu vou ter varios 
+		commit mas todas as minhas versões vão estar lá, já que eu posso esquecer de fazer um commit ou fazer um commit errado.
+
+4- Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+		quando eu posso fazer commit de varios arquivos isso me permite organizar meus arquivos mais facilmente.
+
+5- Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+		Com o git log eu posso verificar o historcio de commits tendo assim a data o horario e o autor daquele commit e com o git diff eu posso veri-
+		ficar as diferenças entre dois commits sabendo o que foi alterado nos arquivos.
+
+6- De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+		Se no desenvolvimento do meu projeto eu encontra algum bug para saber em que momento esse bug ocorreu eu posso verificar os commit com o checkout procurando qual foi o primeiro commit que 
+		ocorreu o bug facilitanto bastante a corrreção do mesmo.
+	
+
+
