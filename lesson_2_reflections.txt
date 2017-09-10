@@ -1,0 +1,3 @@
+1- O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+    quando se inicia um repositorio dentro de uma pasta e criado uma pasta oculta .git
+    que eh responsavel por guardar o historico de comits daquele repositorio.
