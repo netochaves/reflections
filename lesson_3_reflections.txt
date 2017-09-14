@@ -1,3 +1,9 @@
 1- Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
     Quando eu precisar trabalhar nesse repositorio em mais de um lugar, por exemplo
     meu trabalho e minha casa. E também quando eu tiver trabalhando em equipe.
+2- Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+	Bifurcações são necessaria quando eu preciso trabalhar em um projeto publico de outra pessoa
+	ai eu crio uma birfucação desse projeto no meu git como se um fosse um repositorio meu.
+	clones são usados para criar uma copia do repositorio do git no meu servidor local
+	ou de um servidor local para outro.
+	e branches são conjuntos de commits que eu crio no meu repositorio.
